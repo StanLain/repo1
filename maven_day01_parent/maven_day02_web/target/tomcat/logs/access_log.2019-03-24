@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [24/Mar/2019:11:45:40 +0800] "GET /index.jsp HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/Mar/2019:11:46:19 +0800] "GET /maven_day02_web HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [24/Mar/2019:11:46:20 +0800] "GET /maven_day02_web/ HTTP/1.1" 200 151 http-bio-8080-exec-4 859
+0:0:0:0:0:0:0:1 - - [24/Mar/2019:11:46:22 +0800] "GET /items/findDetail?id=1 HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [24/Mar/2019:11:48:04 +0800] "GET /maven_day02_web HTTP/1.1" 302 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [24/Mar/2019:11:48:04 +0800] "GET /maven_day02_web/ HTTP/1.1" 200 151 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [24/Mar/2019:11:48:13 +0800] "GET /items/findDetail?id=1 HTTP/1.1" 404 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [24/Mar/2019:17:15:21 +0800] "GET /maven_day02_web HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/Mar/2019:17:15:22 +0800] "GET /maven_day02_web/ HTTP/1.1" 200 151 http-bio-8080-exec-3 623
+0:0:0:0:0:0:0:1 - - [24/Mar/2019:17:15:23 +0800] "GET /items/findDetail?id=1 HTTP/1.1" 404 - http-bio-8080-exec-4 0
